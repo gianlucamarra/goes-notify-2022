@@ -3,7 +3,7 @@
 # Note: for setting up email with sendmail, see: http://linuxconfig.org/configuring-gmail-as-sendmail-email-relay
 
 import argparse
-import commands
+#import commands
 import json
 import logging
 import smtplib
